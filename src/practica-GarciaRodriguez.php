@@ -10,7 +10,6 @@
  * @author José Manuel García Rodríguez
  * @version 1.0
  * @since 1.0
- * @private DAW
  * 
  * @global array $_POST Datos recibidos del formulario.
  * @global array $_SERVER Información del servidor, usada para verificar el método de la petición.
